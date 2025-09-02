@@ -35,7 +35,7 @@ export default function Home() {
                         </h1>
                         <div className="about-us-btn wow fadeInUp mb-4  position-relative" data-wow-delay="0.4s">
                           <Link href="/" className="btn-default mb-5">
-                            Explore Services
+                            Explore Cities
                           </Link>
                         </div>
 
@@ -74,7 +74,7 @@ export default function Home() {
 
                         <div className="about-us-btn wow fadeInUp mb-4  position-relative" data-wow-delay="0.4s">
                           <Link href="/" className="btn-default mb-5">
-                            Explore Services
+                            Explore Cities
                           </Link>
                         </div>
 
@@ -179,7 +179,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                   {/* About Counter Box End */}
                   {/* About Us Button Start */}
                   <div className="about-us-btn wow fadeInUp" data-wow-delay="0.4s">
-                    <a href="about.html" className="btn-default">
+                    <a href="/about-us" className="btn-default">
                       more about us
                     </a>
                   </div>
@@ -604,9 +604,7 @@ From careful packing and secure transport to timely delivery, every step is hand
         {/* Why Choose Us Section End */}
       </>
 
-<section id="truck-section" className="py-5 ">
 
-</section>
       <>
         {/* Our Testimonials Section Start */}
         <div className="our-testimonials">

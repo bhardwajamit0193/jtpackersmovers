@@ -13,7 +13,7 @@ export default function Header() {
         },
         { label: "About Us", href: "/about" },
         { label: "Services", href: "/services" },
-        { label: "Blog", href: "/blog" },
+        { label: "Cities", href: "/cities" },
         { label: "Contact Us", href: "/contact" },
     ];
 
@@ -26,14 +26,14 @@ export default function Header() {
                     <div className="container">
                         {/* Logo Start */}
                         <Link className="navbar-brand text-white fs-2 fw-bolder" href="/">
-                        JT Packers Movers
-                            {/* <Image
-                                src="/assets/images/logo.png"
-                                alt="Logo"
-                                width={250}
-                                height={50}
+                      
+                            <Image
+                                src="/assets/images/logo.jpg"
+                                alt="JT Packers Movers"
+                                width={180}
+                                height={70}
                                 priority
-                            /> */}
+                            />
                         </Link>
                         {/* Logo End */}
 

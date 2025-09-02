@@ -1,0 +1,4 @@
+2025-09-02T17:34:09.469Z - Error: Email send error: Invalid login: 535 Incorrect authentication data
+2025-09-02T17:37:36.469Z - Error: All fields (name, email, phone, date, message) are required
+2025-09-02T17:38:05.392Z - Error: Email send error: Invalid login: 535 Incorrect authentication data
+2025-09-02T17:38:20.078Z - Error: All fields (name, email, phone, date, message) are required
