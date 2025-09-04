@@ -12,11 +12,12 @@ export default function Data() {
     return (
         <div className="page">
             <PageHeader
-                title="Packers and Movers in Agra"
+                title="Packers and Movers in Mathura"
+                img="/assets/images/mathura-bg.jpeg"
                 breadcrumbs={[
                     { label: "Home", href: "/" },
                     { label: "Cities", href: "/cities" },
-                    { label: "Packers and Movers in Agra" }
+                    { label: "Packers and Movers in Mathura" }
                 ]}
             />
 
@@ -38,8 +39,8 @@ export default function Data() {
                                     <div className="page-single-image">
                                         <figure className="image-anime reveal">
                                             <Image
-                                                src="/assets/images/agra-img.jpeg"
-                                                alt="Agra City"
+                                                src="/assets/images/mathura-img2.jpg"
+                                                alt="Mathura City"
                                                 width={800}   // set width
                                                 height={500}  // set height
                                                 priority      // optional (for above-the-fold images)
@@ -50,20 +51,20 @@ export default function Data() {
                                     {/* Project Entry Start */}
                                     <div className="project-entry">
                                         <h1 className="text-anime-style-2 h2">
-                                            Packers and Movers in <span>Agra </span>
+                                            Packers and Movers in <span>Mathura </span>
                                         </h1>
                                         <p className="wow fadeInUp">
-                                            Relocating to a new place is always an exciting experience, but it can also bring along stress and challenges. Packing household items, handling fragile goods, moving heavy furniture, and transporting them safely requires planning and expertise. That’s where JT Packers Movers in Agra steps in as your trusted relocation partner. With years of experience and a dedicated team, we make shifting simple, smooth, and worry-free for families and businesses across Agra and nearby areas.
+                                            Relocating to a new place is always an exciting experience, but it can also bring along stress and challenges. Packing household items, handling fragile goods, moving heavy furniture, and transporting them safely requires planning and expertise. That’s where JT Packers Movers in Mathura steps in as your trusted relocation partner. With years of experience and a dedicated team, we make shifting simple, smooth, and worry-free for families and businesses across Mathura and nearby areas.
                                         </p>
                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                            At JT Packers Movers, our mission is to provide reliable, affordable, and hassle-free moving services. Whether you are planning a local move within Agra, shifting to another city, or even transporting your car or office setup, our skilled team ensures that every step of the process is handled with care. From the moment we start packing to the time your belongings are delivered and unpacked at the new destination, we guarantee safety, punctuality, and complete satisfaction.
+                                            At JT Packers Movers, our mission is to provide reliable, affordable, and hassle-free moving services. Whether you are planning a local move within Mathura, shifting to another city, or even transporting your car or office setup, our skilled team ensures that every step of the process is handled with care. From the moment we start packing to the time your belongings are delivered and unpacked at the new destination, we guarantee safety, punctuality, and complete satisfaction.
 
 
                                         </p>
                                         {/* Project Design Highlight Start */}
                                         <div className="project-essence-box">
                                             <h2 className="text-anime-style-2 fs-2">
-                                                Why Choose JT Packers Movers in <span>Agra?</span>
+                                                Why Choose JT Packers Movers in <span>Mathura?</span>
                                             </h2>
                                             <ul className="wow fadeInUp" data-wow-delay="0.4s">
                                                 <li><b>Professional Expertise </b>– Our trained staff knows the best techniques for packing and handling different types of items, including delicate glassware, electronic appliances, furniture, and office equipment.</li>
@@ -77,7 +78,7 @@ export default function Data() {
                                         {/* Project Design Highlight End */}
                                         <div className="project-challenge">
                                             <h2 className="text-anime-style-2 fs-2">
-                                                Our Packers and Movers Services in <span>Agra</span>
+                                                Our Packers and Movers Services in <span>Mathura</span>
                                             </h2>
                                             <p className="wow fadeInUp">
                                                 At JT Packers Movers, we provide a wide range of relocation and logistics services tailored to your needs:
@@ -98,7 +99,7 @@ export default function Data() {
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
                                                     <div className="project-challenge-content">
-                                                        <h3 className="wow fadeInUp">Household Shifting in Agra</h3>
+                                                        <h3 className="wow fadeInUp">Household Shifting in Mathura</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
                                                             Moving homes becomes effortless with our complete household relocation solutions. From kitchen items and clothes to heavy furniture and fragile décor, we pack, load, transport, and unload everything with care
                                                         </p>
@@ -121,7 +122,7 @@ export default function Data() {
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
                                                     <div className="project-challenge-content">
-                                                        <h3 className="wow fadeInUp">Office Relocation in Agra</h3>
+                                                        <h3 className="wow fadeInUp">Office Relocation in Mathura</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
                                                             Planning to shift your office? We handle files, computers, servers, furniture, and workstations, ensuring minimum downtime and smooth transition to your new office space.
                                                         </p>
@@ -186,7 +187,7 @@ export default function Data() {
                                                     <div className="project-challenge-content">
                                                         <h3 className="wow fadeInUp">Warehousing & Storage Services</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                                            Need temporary storage for your belongings? Our secure warehouses in Agra provide safe and cost-effective storage solutions for short or long durations.
+                                                            Need temporary storage for your belongings? Our secure warehouses in Mathura provide safe and cost-effective storage solutions for short or long durations.
                                                         </p>
 
                                                     </div>
@@ -345,7 +346,7 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            We provide household shifting, office relocation, car & bike transport, local and domestic moving, and warehousing & storage solutions across Agra and nearby areas.
+                                                            We provide household shifting, office relocation, car & bike transport, local and domestic moving, and warehousing & storage solutions across Mathura and nearby areas.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -460,7 +461,7 @@ export default function Data() {
                 </>
 
                 <>
-                   <CitiesBottom/>
+                  <CitiesBottom/>
                 </>
 
             </>

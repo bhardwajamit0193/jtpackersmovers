@@ -2,9 +2,11 @@
 
 import Link from "next/link";
 
-export default function PageHeader({ title, breadcrumbs = [] }) {
+export default function PageHeader({ title, img =null, breadcrumbs = [] }) {
   return (
-    <div className="page-header parallaxie">
+    <div className="page-header parallaxie"
+      style={img ? { backgroundImage: `url(${img})` } : {}}
+    >
       <div className="container">
         <div className="row items-center">
           <div className="col-lg-12">

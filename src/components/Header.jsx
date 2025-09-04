@@ -11,10 +11,10 @@ export default function Header() {
             label: "Home",
             href: "/",
         },
-        { label: "About Us", href: "/about" },
+        { label: "About Us", href: "/about-us" },
         { label: "Services", href: "/services" },
         { label: "Cities", href: "/cities" },
-        { label: "Contact Us", href: "/contact" },
+        { label: "Contact Us", href: "/contact-us" },
     ];
 
 
@@ -68,7 +68,7 @@ export default function Header() {
 
                             {/* Header Btn Start */}
                             <div className="header-btn">
-                                <Link href="/contact" className="btn-default btn-default2 btn-highlighted">
+                                <Link href="/contact-us" className="btn-default btn-default2 btn-highlighted">
                                     Call Now
                                 </Link>
                             </div>
