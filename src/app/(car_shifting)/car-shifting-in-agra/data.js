@@ -1,6 +1,7 @@
 "use client";
 
 import BookingForm from "@/components/BookingForm";
+import CitiesBottom from "@/components/Cities-bottom";
 import PageHeader from "@/components/PageHeader";
 import Sidebar from "@/components/Sidebar";
 import TestimonialSlider from "@/components/TestimonialSlider";
@@ -402,8 +403,7 @@ export default function Data() {
                     {/* Our Testimonials Section End */}
                 </>
 
-               <CitiesBottom
-               />
+               <CitiesBottom/>
 
             </>
 
