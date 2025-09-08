@@ -1,10 +1,38 @@
 "use client";
 
+import { useEffect, useState } from 'react';
+import {
+  FaWhatsapp,
+  FaFacebookF,
+  FaXTwitter,
+  FaInstagram,
+  FaLinkedinIn,
+  FaHeadset,
+  FaArrowUp,
+  FaEnvelope,
+} from 'react-icons/fa6';
+
 import Link from "next/link";
 import Image from "next/image";
 
 export default function Footer() {
+
+ const [showScroll, setShowScroll] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowScroll(window.scrollY > 200);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   return (
+    <>
     <footer className="main-footer">
       <div className="container">
         <div className="row">
@@ -13,8 +41,17 @@ export default function Footer() {
             <div className="about-footer">
               {/* Logo */}
               <div className="footer-logo text-white fs-3 fw-bolder">
-                JT Packers Movers
+                <div className="bg-white p-2 rounded">
 
+                
+               <Image
+                                              src="/assets/images/logo.jpg"
+                                              alt="JT Packers Movers"
+                                              width={180}
+                                              height={70}
+                                              priority
+                                          />
+</div>
               </div>
               <div className="about-footer-content">
                 <p>
@@ -85,7 +122,7 @@ export default function Footer() {
                   <Link href="/about-us">About Us</Link>
                 </li>
                 <li>
-                  <Link href="/services">Services</Link>
+                  <Link href="/blog">Blog</Link>
                 </li>
                 <li>
                   <Link href="/cities">Cities</Link>
@@ -165,12 +202,40 @@ export default function Footer() {
             <div className="footer-copyright">
               <div className="footer-copyright-text">
                 <p>Copyright © 2025 All Rights Reserved.</p>
+                
+ 
               </div>
 
             </div>
           </div>
         </div>
       </div>
+
+      {showScroll && (
+  <button
+    onClick={scrollToTop}
+    className="btn btn-warning rounded-circle position-fixed shadow"
+    style={{
+      width: '48px',
+      height: '48px',
+      bottom: '20px',
+      right: '20px',
+      zIndex: 2000,
+    }}
+    aria-label="Scroll to top"
+  >
+    <FaArrowUp className="text-white" />
+  </button>
+)}
+
     </footer>
+
+   
+
+
+
+
+      </>
+
   );
 }
