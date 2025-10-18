@@ -37,15 +37,15 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        <figure className="image-anime reveal">
+                                        
                                             <Image
-                                                src="/assets/images/noida-image.jpeg"
+                                                src="/assets/images/packers-and-movers-in-noida.webp"
                                                 alt="Noida City"
                                                 width={800}   // set width
                                                 height={500}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                        </figure>
+                                       
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}
@@ -89,12 +89,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/service-entry-image.jpg"
+                                                                src="/assets/images/houseshifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -112,12 +112,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/ss1.jpg"
+                                                                src="/assets/images/office-shifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -133,12 +133,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/pll.jpg"
+                                                                src="/assets/images/car-and-bike-transport-services.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -154,12 +154,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/success-story-image-1.jpg"
+                                                                src="/assets/images/domestic.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -175,12 +175,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/post-2.jpg"
+                                                                src="/assets/images/warehouse.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -287,13 +287,13 @@ export default function Data() {
                                         {/* Section Title Start */}
                                         <div className="section-title">
                                             <h2 className="text-anime-style-2 fs-2" data-cursor="-opaque">
-                                                Answers to your <span>moving questions</span>
+                                                Answers to your <span>Noida moving questions</span>
                                             </h2>
                                         </div>
                                         {/* Section Title End */}
                                         {/* FAQ Accordion Start */}
                                         <div className="faq-accordion" id="faqaccordion">
-                                            {/* FAQ Item Start */}
+                                            {/* FAQ 1 */}
                                             <div className="accordion-item wow fadeInUp">
                                                 <h2 className="accordion-header" id="heading1">
                                                     <button
@@ -304,7 +304,7 @@ export default function Data() {
                                                         aria-expanded="true"
                                                         aria-controls="collapse1"
                                                     >
-                                                        How do I book Packers and Movers with JT Packers Movers?
+                                                        How can I find the best packers and movers in Noida?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -315,17 +315,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            You can easily book our services by calling us, filling out the contact form on our website, or requesting a free quote. Our team will guide you through the process and provide a customized relocation plan.
+                                                            You can find reliable movers by checking Google reviews, company registration details, GST number, and comparing multiple quotes. Always choose a company that offers door-to-door service and transit insurance for safety.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.2s"
-                                            >
+
+                                            {/* FAQ 2 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                                                 <h2 className="accordion-header" id="heading2">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -335,7 +332,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse2"
                                                     >
-                                                        What services do you offer ?
+                                                        What is the average cost of packers and movers in Noida?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -346,17 +343,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            We provide household shifting, office relocation, car & bike transport, local and domestic moving, and warehousing & storage solutions across Noida and nearby areas.
+                                                            The average cost of local shifting in Noida is around ₹3,000 – ₹9,000, while intercity relocation (like Noida to Mumbai, Delhi, or Bangalore) can range between ₹10,000 – ₹40,000, depending on distance, house size, and service type.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.4s"
-                                            >
+
+                                            {/* FAQ 3 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                                                 <h2 className="accordion-header" id="heading3">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -366,7 +360,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse3"
                                                     >
-                                                        How much do packers and movers charge?
+                                                        What services do packers and movers in Noida offer?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -377,17 +371,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The cost depends on several factors such as distance, volume of items, type of packing materials used, and additional services like storage or insurance. At JT Packers Movers, we offer transparent pricing with no hidden charges.
+                                                            Most professional movers provide complete relocation services, including packing, loading, transporting, unloading, unpacking, furniture setup, office shifting, and vehicle transport.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.6s"
-                                            >
+
+                                            {/* FAQ 4 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                                                 <h2 className="accordion-header" id="heading4">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -397,7 +388,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse4"
                                                     >
-                                                        How long will my relocation take?
+                                                        Do packers and movers in Noida offer insurance for my belongings?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -408,15 +399,187 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The time required depends on the type and distance of the move. Local shifting usually takes 1–2 days, while domestic moves may take 3–7 days depending on the destination.
+                                                            Yes, trusted companies offer transit insurance to protect your goods from damage or loss during the move. Always ask for an insurance certificate for verification.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
+
+                                            {/* FAQ 5 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                                                <h2 className="accordion-header" id="heading5">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse5"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse5"
+                                                    >
+                                                        How long does it take to complete a home shifting in Noida?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse5"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading5"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            For local moves, the entire process can be completed within a single day, while intercity relocations may take 2–5 days based on the destination and the volume of goods.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 6 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1s">
+                                                <h2 className="accordion-header" id="heading6">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse6"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse6"
+                                                    >
+                                                        How can I reduce my moving cost in Noida?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse6"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading6"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            You can save money by:<br /><br />
+                                                            • Booking your move in advance<br />
+                                                            • Decluttering unnecessary items<br />
+                                                            • Moving during weekdays or mid-month<br />
+                                                            • Comparing 2–3 company quotations
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 7 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.2s">
+                                                <h2 className="accordion-header" id="heading7">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse7"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse7"
+                                                    >
+                                                        Do movers in Noida provide packing materials?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse7"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading7"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, professional movers use high-quality packing supplies such as bubble wraps, corrugated boxes, stretch film, and waterproof covers to ensure your goods stay safe during the move.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 8 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.4s">
+                                                <h2 className="accordion-header" id="heading8">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse8"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse8"
+                                                    >
+                                                        Can I track my goods while they are in transit?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse8"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading8"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, most reputed packers and movers in Noida provide real-time GPS tracking and regular updates via phone or WhatsApp so you can monitor your shipment.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 9 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.6s">
+                                                <h2 className="accordion-header" id="heading9">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse9"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse9"
+                                                    >
+                                                        Do packers and movers in Noida handle office or commercial shifting?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse9"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading9"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, several companies specialize in office, shop, and corporate relocations, ensuring safe handling of furniture, files, and electronics with minimal downtime.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 10 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.8s">
+                                                <h2 className="accordion-header" id="heading10">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse10"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse10"
+                                                    >
+                                                        When should I book packers and movers in Noida?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse10"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading10"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            It’s best to book 7–10 days in advance, especially during weekends, holidays, or the end of the month when booking demand and prices are higher.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                         {/* FAQ Accordion End */}
                                     </div>
+
                                     {/* Page Single FAQs End */}
 
 
@@ -460,7 +623,7 @@ export default function Data() {
                     {/* Our Testimonials Section End */}
                 </>
 
-                <CitiesBottom/>
+                <CitiesBottom />
 
             </>
 

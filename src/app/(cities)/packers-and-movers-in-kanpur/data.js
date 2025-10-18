@@ -37,15 +37,15 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        <figure className="image-anime reveal">
+                                        
                                             <Image
-                                                src="/assets/images/kanpur-img2.jpeg"
+                                                src="/assets/images/packers-and-movers-in-kanpur.webp"
                                                 alt="Kanpur City"
                                                 width={800}   // set width
                                                 height={500}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                        </figure>
+                                        
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}
@@ -89,12 +89,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/service-entry-image.jpg"
+                                                                src="/assets/images/houseshifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -112,12 +112,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/ss1.jpg"
+                                                                src="/assets/images/office-shifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -133,12 +133,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/pll.jpg"
+                                                                src="/assets/images/car-and-bike-transport-services.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -154,12 +154,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/success-story-image-1.jpg"
+                                                                src="/assets/images/domestic.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -175,12 +175,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/post-2.jpg"
+                                                                src="/assets/images/warehouse.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -287,13 +287,13 @@ export default function Data() {
                                         {/* Section Title Start */}
                                         <div className="section-title">
                                             <h2 className="text-anime-style-2 fs-2" data-cursor="-opaque">
-                                                Answers to your <span>moving questions</span>
+                                                Answers to your <span>Kanpur moving questions</span>
                                             </h2>
                                         </div>
                                         {/* Section Title End */}
                                         {/* FAQ Accordion Start */}
                                         <div className="faq-accordion" id="faqaccordion">
-                                            {/* FAQ Item Start */}
+                                            {/* FAQ 1 */}
                                             <div className="accordion-item wow fadeInUp">
                                                 <h2 className="accordion-header" id="heading1">
                                                     <button
@@ -304,7 +304,7 @@ export default function Data() {
                                                         aria-expanded="true"
                                                         aria-controls="collapse1"
                                                     >
-                                                        How do I book Packers and Movers with JT Packers Movers?
+                                                        How can I find reliable packers and movers in Kanpur?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -315,17 +315,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            You can easily book our services by calling us, filling out the contact form on our website, or requesting a free quote. Our team will guide you through the process and provide a customized relocation plan.
+                                                            You can find trusted movers by checking Google reviews, company registration, GST number, and service experience. Always compare 2–3 quotes and confirm insurance coverage before finalizing.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.2s"
-                                            >
+
+                                            {/* FAQ 2 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                                                 <h2 className="accordion-header" id="heading2">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -335,7 +332,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse2"
                                                     >
-                                                        What services do you offer ?
+                                                        What is the average cost of packers and movers in Kanpur?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -346,17 +343,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            We provide household shifting, office relocation, car & bike transport, local and domestic moving, and warehousing & storage solutions across Kanpur and nearby areas.
+                                                            Local house shifting in Kanpur costs around ₹3,000 – ₹9,000, while intercity relocation can range from ₹10,000 – ₹35,000, depending on distance, load size, and packing materials.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.4s"
-                                            >
+
+                                            {/* FAQ 3 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                                                 <h2 className="accordion-header" id="heading3">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -366,7 +360,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse3"
                                                     >
-                                                        How much do packers and movers charge?
+                                                        What services do packers and movers in Kanpur provide?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -377,17 +371,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The cost depends on several factors such as distance, volume of items, type of packing materials used, and additional services like storage or insurance. At JT Packers Movers, we offer transparent pricing with no hidden charges.
+                                                            Most professional movers offer packing, loading, transportation, unloading, unpacking, and rearranging services. Some also provide office relocation, car/bike transport, and warehouse storage options.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.6s"
-                                            >
+
+                                            {/* FAQ 4 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                                                 <h2 className="accordion-header" id="heading4">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -397,7 +388,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse4"
                                                     >
-                                                        How long will my relocation take?
+                                                        Are packers and movers in Kanpur responsible for any damages during shifting?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -408,15 +399,187 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The time required depends on the type and distance of the move. Local shifting usually takes 1–2 days, while domestic moves may take 3–7 days depending on the destination.
+                                                            Yes, if you opt for transit insurance, your belongings are covered against damage or loss during transportation. Always ask for insurance documentation for transparency.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
+
+                                            {/* FAQ 5 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                                                <h2 className="accordion-header" id="heading5">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse5"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse5"
+                                                    >
+                                                        How much time does it take to complete a home relocation in Kanpur?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse5"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading5"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            A local move usually takes one day, while intercity shifting may take 2–5 days depending on distance, weather, and vehicle type.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 6 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1s">
+                                                <h2 className="accordion-header" id="heading6">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse6"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse6"
+                                                    >
+                                                        How can I reduce my relocation expenses in Kanpur?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse6"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading6"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            To save costs:<br /><br />
+                                                            • Get multiple quotes and negotiate<br />
+                                                            • Move during mid-week or mid-month<br />
+                                                            • Declutter unnecessary items<br />
+                                                            • Use shared truck options for long-distance moves
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 7 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.2s">
+                                                <h2 className="accordion-header" id="heading7">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse7"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse7"
+                                                    >
+                                                        Do packers and movers in Kanpur provide packing materials?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse7"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading7"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, reputed movers use premium packing materials such as bubble wraps, corrugated boxes, stretch films, and tapes to ensure item safety during the move.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 8 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.4s">
+                                                <h2 className="accordion-header" id="heading8">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse8"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse8"
+                                                    >
+                                                        Can I track my goods during transportation from Kanpur?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse8"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading8"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, many modern packers and movers in Kanpur offer GPS tracking and regular updates through phone or WhatsApp, keeping you informed until delivery.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 9 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.6s">
+                                                <h2 className="accordion-header" id="heading9">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse9"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse9"
+                                                    >
+                                                        Do movers in Kanpur provide office or industrial relocation services?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse9"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading9"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, several companies specialize in office shifting, factory relocation, and commercial logistics, using professional handling equipment for safe and timely delivery.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 10 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.8s">
+                                                <h2 className="accordion-header" id="heading10">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse10"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse10"
+                                                    >
+                                                        When should I book packers and movers in Kanpur?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse10"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading10"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            It’s best to book at least 7–10 days in advance, especially if you’re planning to move during weekends, holidays, or peak shifting seasons.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                         {/* FAQ Accordion End */}
                                     </div>
+
                                     {/* Page Single FAQs End */}
 
 
@@ -461,7 +624,7 @@ export default function Data() {
                 </>
 
                 <>
-                   <CitiesBottom/>
+                    <CitiesBottom />
                 </>
 
             </>

@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "static": "next build && next export"
+
   },
   "dependencies": {
     "flatpickr": "^4.6.13",

@@ -49,7 +49,7 @@ export default function Data() {
                 <div className="contact-info-content">
                   <p>call to question</p>
                   <h3>
-                    <a href="tel:123456789">+91 123 456 789</a>
+                    <a href="tel:9058824450">+91 9058824450</a>
                   </h3>
                 </div>
               </div>
@@ -65,7 +65,7 @@ export default function Data() {
                 <div className="contact-info-content">
                   <p>send e-mail</p>
                   <h3>
-                    <a href="mailto:info@domain.com">info@domain.com</a>
+                    <a href="mailto:enquiry@jtpackersmovers.com">enquiry@jtpackersmovers.com</a>
                   </h3>
                 </div>
               </div>
@@ -80,7 +80,7 @@ export default function Data() {
                 </div>
                 <div className="contact-info-content">
                   <p>visit anytime</p>
-                  <h3>Nodia Delhi NCR</h3>
+                  <h3>Hig-A 39 Indirapuram, 100 ft Road Near Shamshabad Road , 282001, Agra.</h3>
                 </div>
               </div>
               {/* Contact Info Item End */}

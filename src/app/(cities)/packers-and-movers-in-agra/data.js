@@ -36,15 +36,15 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        <figure className="image-anime reveal">
+                                        
                                             <Image
-                                                src="/assets/images/agra-img.jpeg"
+                                                src="/assets/images/packers-and-movers-in-agra.webp"
                                                 alt="Agra City"
                                                 width={800}   // set width
-                                                height={500}  // set height
+                                                height={600}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                        </figure>
+                                      
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}
@@ -88,12 +88,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                       
                                                             <img
-                                                                src="/assets/images/service-entry-image.jpg"
+                                                                src="/assets/images/houseshifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -111,12 +111,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                       
                                                             <img
-                                                                src="/assets/images/ss1.jpg"
+                                                                src="/assets/images/office-shifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -132,12 +132,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                       
                                                             <img
-                                                                src="/assets/images/pll.jpg"
+                                                                src="/assets/images/car-and-bike-transport-services.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -153,12 +153,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                       
                                                             <img
-                                                                src="/assets/images/success-story-image-1.jpg"
+                                                                src="/assets/images/domestic.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -174,12 +174,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                       
                                                             <img
-                                                                src="/assets/images/post-2.jpg"
+                                                                src="/assets/images/warehouse.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                        
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -292,7 +292,7 @@ export default function Data() {
                                         {/* Section Title End */}
                                         {/* FAQ Accordion Start */}
                                         <div className="faq-accordion" id="faqaccordion">
-                                            {/* FAQ Item Start */}
+                                            {/* FAQ 1 */}
                                             <div className="accordion-item wow fadeInUp">
                                                 <h2 className="accordion-header" id="heading1">
                                                     <button
@@ -303,7 +303,7 @@ export default function Data() {
                                                         aria-expanded="true"
                                                         aria-controls="collapse1"
                                                     >
-                                                        How do I book Packers and Movers with JT Packers Movers?
+                                                        How do I choose the best packers and movers in Agra?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -314,17 +314,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            You can easily book our services by calling us, filling out the contact form on our website, or requesting a free quote. Our team will guide you through the process and provide a customized relocation plan.
+                                                            Look for companies with verified licenses, positive customer reviews, transparent pricing, and experience in both local and long-distance moves. Always ask for a written quotation and check if insurance is included.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.2s"
-                                            >
+
+                                            {/* FAQ 2 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                                                 <h2 className="accordion-header" id="heading2">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -334,7 +331,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse2"
                                                     >
-                                                        What services do you offer ?
+                                                        What is the average cost of packers and movers in Agra?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -345,17 +342,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            We provide household shifting, office relocation, car & bike transport, local and domestic moving, and warehousing & storage solutions across Agra and nearby areas.
+                                                            The cost usually ranges between ₹3,000 – ₹10,000 for local shifting and ₹10,000 – ₹35,000 for intercity relocations. Pricing depends on factors like distance, volume of goods, and type of vehicle used.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.4s"
-                                            >
+
+                                            {/* FAQ 3 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                                                 <h2 className="accordion-header" id="heading3">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -365,7 +359,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse3"
                                                     >
-                                                        How much do packers and movers charge?
+                                                        What services do packers and movers in Agra provide?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -376,17 +370,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The cost depends on several factors such as distance, volume of items, type of packing materials used, and additional services like storage or insurance. At JT Packers Movers, we offer transparent pricing with no hidden charges.
+                                                            Most professional movers offer complete relocation solutions including packing, loading, transportation, unloading, unpacking, and storage facilities. Some also offer vehicle transportation and office relocation services.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.6s"
-                                            >
+
+                                            {/* FAQ 4 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                                                 <h2 className="accordion-header" id="heading4">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -396,7 +387,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse4"
                                                     >
-                                                        How long will my relocation take?
+                                                        How much time does it take to complete a house shifting in Agra?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -407,15 +398,187 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The time required depends on the type and distance of the move. Local shifting usually takes 1–2 days, while domestic moves may take 3–7 days depending on the destination.
+                                                            A local move within Agra typically takes one day, while intercity relocations may take 2–5 days depending on distance and the size of the move.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
+
+                                            {/* FAQ 5 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                                                <h2 className="accordion-header" id="heading5">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse5"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse5"
+                                                    >
+                                                        Are packers and movers in Agra responsible for damages during transit?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse5"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading5"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, reputed companies offer transit insurance that covers any damage or loss during transportation. Always confirm insurance coverage before booking.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 6 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1s">
+                                                <h2 className="accordion-header" id="heading6">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse6"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse6"
+                                                    >
+                                                        How can I reduce my shifting cost in Agra?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse6"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading6"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            You can save money by:<br /><br />
+                                                            • Decluttering unused items before the move<br />
+                                                            • Booking in advance<br />
+                                                            • Choosing weekdays instead of weekends<br />
+                                                            • Comparing at least 2–3 quotes before finalizing
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 7 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.2s">
+                                                <h2 className="accordion-header" id="heading7">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse7"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse7"
+                                                    >
+                                                        Do packers and movers in Agra provide packing materials?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse7"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading7"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, professional movers use high-quality materials such as bubble wrap, corrugated sheets, packing foam, and boxes to ensure your belongings are protected during the move.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 8 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.4s">
+                                                <h2 className="accordion-header" id="heading8">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse8"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse8"
+                                                    >
+                                                        Can I track my goods during relocation?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse8"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading8"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Many modern packers and movers in Agra provide GPS tracking and regular status updates via phone or WhatsApp to help customers monitor their goods in real time.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 9 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.6s">
+                                                <h2 className="accordion-header" id="heading9">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse9"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse9"
+                                                    >
+                                                        Are there packers and movers in Agra for office or commercial relocation?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse9"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading9"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, most top companies handle office relocations, warehouse shifting, and industrial goods transport with specialized equipment and staff trained for corporate moves.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 10 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.8s">
+                                                <h2 className="accordion-header" id="heading10">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse10"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse10"
+                                                    >
+                                                        How early should I book packers and movers in Agra?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse10"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading10"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            It’s best to book your move at least 7–10 days in advance, especially during weekends or peak moving seasons, to secure the best rates and availability.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                         {/* FAQ Accordion End */}
                                     </div>
+
                                     {/* Page Single FAQs End */}
 
 
@@ -460,7 +623,7 @@ export default function Data() {
                 </>
 
                 <>
-                   <CitiesBottom/>
+                    <CitiesBottom />
                 </>
 
             </>

@@ -41,18 +41,17 @@ export default function Footer() {
             <div className="about-footer">
               {/* Logo */}
               <div className="footer-logo text-white fs-3 fw-bolder">
-                <div className="bg-white p-2 rounded">
-
-                
-               <Image
-                                              src="/assets/images/logo.jpg"
-                                              alt="JT Packers Movers"
-                                              width={180}
-                                              height={70}
-                                              priority
-                                          />
+  <div className="p-2 rounded" style={{ backgroundColor: "transparent" }}>
+    <Image
+      src="/assets/images/logo.png"
+      alt="JT Packers Movers"
+      width={180}
+      height={70}
+      priority
+    />
+  </div>
 </div>
-              </div>
+
               <div className="about-footer-content">
                 <p>
                   Since 2007, as a leading moving company, we have been an ISO 9001:2015 and ISO 39001:2012 certified, IBA approved Packers and Movers company, promising and delivering throughout India.
@@ -155,7 +154,7 @@ export default function Footer() {
                   />
                 </div>
                 <div className="footer-contact-content">
-                  <p>3891 Ranchview Dr. Richardson, California 62639</p>
+                  <p>Hig-A 39 Indirapuram, 100 ft Road Near Shamshabad Road , 282001,  Agra.</p>
                 </div>
               </div>
 
@@ -172,7 +171,7 @@ export default function Footer() {
                 <div className="footer-contact-content">
                  
                   <p>
-                    <a href="mailto:info@domain.com">info@domain.com</a>
+                    <a href="mailto:enquiry@jtpackersmovers.com">enquiry@jtpackersmovers.com</a>
                   </p>
                 </div>
               </div>
@@ -189,7 +188,7 @@ export default function Footer() {
                 </div>
                 <div className="footer-contact-content">
                   <p>
-                    <a href="tel:+91123456789">+91 123 456 789</a>
+                    <a href="tel:+919058824450">+91 9058824450</a>
                   </p>
                 </div>
               </div>

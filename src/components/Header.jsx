@@ -28,12 +28,14 @@ export default function Header() {
                         <Link className="navbar-brand text-white fs-2 fw-bolder" href="/">
                       
                             <Image
-                                src="/assets/images/logo.jpg"
-                                alt="JT Packers Movers"
-                                width={180}
-                                height={70}
-                                priority
-                            />
+  src="/assets/images/logo.png"
+  alt="JT Packers Movers"
+  width={180}
+  height={70}
+  priority
+  style={{ background: "transparent", border: "none" }}
+/>
+
                         </Link>
                         {/* Logo End */}
 

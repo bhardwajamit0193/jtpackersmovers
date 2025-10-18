@@ -37,7 +37,7 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        <figure className="image-anime reveal">
+                                        
                                             <Image
                                                 src="/assets/images/car2.png"
                                                 alt="Agra City"
@@ -45,7 +45,7 @@ export default function Data() {
                                                 height={500}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                        </figure>
+                                       
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}

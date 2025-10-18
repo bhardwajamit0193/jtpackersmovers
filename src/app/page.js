@@ -22,7 +22,7 @@ export default function Home() {
                 <div className="hero-slide">
                   {/* Slider Image Start */}
                   <div className="hero-slider-image bg-img">
-                    <img src="/assets/images/gallery-4.jpg" alt="" />
+                    <img src="/assets/images/img-4.webp" alt="" />
                   </div>
                   {/* Slider Image End */}
                   <div className="container">
@@ -56,7 +56,7 @@ export default function Home() {
                 <div className="hero-slide">
                   {/* Slider Image Start */}
                   <div className="hero-slider-image bg-img">
-                    <img src="/assets/images/slide-01.jpg" alt="" />
+                    <img src="/assets/images/img-5.webp" alt="" />
                   </div>
                   {/* Slider Image End */}
                   <div className="container">
@@ -135,9 +135,9 @@ export default function Home() {
               <div className="col-lg-6 order-lg-1 order-2">
                 {/* About Us Image Start */}
                 <div className="about-us-image">
-                  <figure className="image-anime reveal">
-                    <img src="/assets/images/blog-img-01.jpg" alt="" />
-                  </figure>
+                
+                    <img src="/assets/images/img-1.webp" alt="" />
+                  
                 </div>
                 {/* About Us Image End */}
               </div>
@@ -204,9 +204,9 @@ From careful packing and secure transport to timely delivery, every step is hand
                   {/* About Owner Info End */}
                   {/* About Owner Image Start */}
                   <div className="about-owner-image">
-                    <figure className="image-anime reveal">
-                      <img src="/assets/images/service-img-03.jpg" alt="" />
-                    </figure>
+                   
+                      <img src="/assets/images/img-2.webp" alt="" />
+                   
                   </div>
                   {/* About Owner Image End */}
                 </div>
@@ -662,9 +662,9 @@ From careful packing and secure transport to timely delivery, every step is hand
                 {/* Faqs Image Start */}
                 <div className="faqs-image">
                   <div className="faq-image">
-                    <figure className="image-anime">
-                      <img src="/assets/images/service-01.jpg" alt="" />
-                    </figure>
+                  
+                      <img src="/assets/images/img-3.webp" alt="" />
+                   
                   </div>
                   {/* Intro Video Button Start */}
               

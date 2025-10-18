@@ -37,15 +37,15 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        <figure className="image-anime reveal">
+                                        
                                             <Image
-                                                src="/assets/images/mathura-img2.jpg"
+                                                src="/assets/images/packers-and-movers-in-mathura.webp"
                                                 alt="Mathura City"
                                                 width={800}   // set width
                                                 height={500}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                        </figure>
+                                       
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}
@@ -89,12 +89,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/service-entry-image.jpg"
+                                                                src="/assets/images/houseshifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -112,12 +112,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/ss1.jpg"
+                                                                src="/assets/images/office-shifting.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -133,12 +133,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/pll.jpg"
+                                                                src="/assets/images/car-and-bike-transport-services.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -154,12 +154,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/success-story-image-1.jpg"
+                                                                src="/assets/images/domestic.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -175,12 +175,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        <figure className="image-anime reveal">
+                                                        
                                                             <img
-                                                                src="/assets/images/post-2.jpg"
+                                                                src="/assets/images/warehouse.webp"
                                                                 alt=""
                                                             />
-                                                        </figure>
+                                                       
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -287,13 +287,13 @@ export default function Data() {
                                         {/* Section Title Start */}
                                         <div className="section-title">
                                             <h2 className="text-anime-style-2 fs-2" data-cursor="-opaque">
-                                                Answers to your <span>moving questions</span>
+                                                Answers to your <span>Mathura moving questions</span>
                                             </h2>
                                         </div>
                                         {/* Section Title End */}
                                         {/* FAQ Accordion Start */}
                                         <div className="faq-accordion" id="faqaccordion">
-                                            {/* FAQ Item Start */}
+                                            {/* FAQ 1 */}
                                             <div className="accordion-item wow fadeInUp">
                                                 <h2 className="accordion-header" id="heading1">
                                                     <button
@@ -304,7 +304,7 @@ export default function Data() {
                                                         aria-expanded="true"
                                                         aria-controls="collapse1"
                                                     >
-                                                        How do I book Packers and Movers with JT Packers Movers?
+                                                        How can I find reliable packers and movers in Mathura?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -315,17 +315,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            You can easily book our services by calling us, filling out the contact form on our website, or requesting a free quote. Our team will guide you through the process and provide a customized relocation plan.
+                                                            To find the best movers in Mathura, check Google ratings, verified licenses, and customer reviews. Compare quotes from at least 2–3 companies and confirm whether they provide insurance and doorstep service.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.2s"
-                                            >
+
+                                            {/* FAQ 2 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                                                 <h2 className="accordion-header" id="heading2">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -335,7 +332,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse2"
                                                     >
-                                                        What services do you offer ?
+                                                        What is the average cost of packers and movers in Mathura?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -346,17 +343,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            We provide household shifting, office relocation, car & bike transport, local and domestic moving, and warehousing & storage solutions across Mathura and nearby areas.
+                                                            The price for local shifting in Mathura ranges between ₹3,000 – ₹8,000, while long-distance moves (like Mathura to Delhi or Agra) can cost ₹10,000 – ₹35,000, depending on distance, goods volume, and vehicle size.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.4s"
-                                            >
+
+                                            {/* FAQ 3 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                                                 <h2 className="accordion-header" id="heading3">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -366,7 +360,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse3"
                                                     >
-                                                        How much do packers and movers charge?
+                                                        What services do packers and movers in Mathura offer?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -377,17 +371,14 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The cost depends on several factors such as distance, volume of items, type of packing materials used, and additional services like storage or insurance. At JT Packers Movers, we offer transparent pricing with no hidden charges.
+                                                            Most professional movers provide packing, loading, transportation, unloading, unpacking, and rearranging. Additional services include office relocation, vehicle transport, and warehousing.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
-                                            {/* FAQ Item Start */}
-                                            <div
-                                                className="accordion-item wow fadeInUp"
-                                                data-wow-delay="0.6s"
-                                            >
+
+                                            {/* FAQ 4 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                                                 <h2 className="accordion-header" id="heading4">
                                                     <button
                                                         className="accordion-button collapsed"
@@ -397,7 +388,7 @@ export default function Data() {
                                                         aria-expanded="false"
                                                         aria-controls="collapse4"
                                                     >
-                                                        How long will my relocation take?
+                                                        Do packers and movers in Mathura offer insurance coverage?
                                                     </button>
                                                 </h2>
                                                 <div
@@ -408,15 +399,187 @@ export default function Data() {
                                                 >
                                                     <div className="accordion-body">
                                                         <p>
-                                                            The time required depends on the type and distance of the move. Local shifting usually takes 1–2 days, while domestic moves may take 3–7 days depending on the destination.
+                                                            Yes, reputed companies offer transit insurance that covers damage or loss of goods during shifting. Always ask for a copy of the insurance policy before finalizing your booking.
                                                         </p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            {/* FAQ Item End */}
+
+                                            {/* FAQ 5 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                                                <h2 className="accordion-header" id="heading5">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse5"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse5"
+                                                    >
+                                                        How much time does home shifting take in Mathura?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse5"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading5"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            For local moves, the process usually takes a single day. For intercity relocations, the duration depends on distance — typically 2 to 5 days for nearby cities.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 6 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1s">
+                                                <h2 className="accordion-header" id="heading6">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse6"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse6"
+                                                    >
+                                                        How can I reduce the cost of shifting in Mathura?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse6"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading6"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            You can save money by:<br /><br />
+                                                            • Decluttering unnecessary items before moving<br />
+                                                            • Booking your move during weekdays or mid-month<br />
+                                                            • Using shared transport for smaller loads<br />
+                                                            • Comparing at least three moving estimates
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 7 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.2s">
+                                                <h2 className="accordion-header" id="heading7">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse7"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse7"
+                                                    >
+                                                        Do movers in Mathura provide their own packing materials?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse7"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading7"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, trusted movers use high-quality packing supplies such as bubble wrap, corrugated boxes, foam sheets, and waterproof covers to keep your belongings safe.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 8 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.4s">
+                                                <h2 className="accordion-header" id="heading8">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse8"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse8"
+                                                    >
+                                                        Can I track my goods during transportation?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse8"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading8"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, many professional packers and movers in Mathura offer real-time GPS tracking and regular updates through calls or WhatsApp for complete transparency.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 9 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.6s">
+                                                <h2 className="accordion-header" id="heading9">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse9"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse9"
+                                                    >
+                                                        Do packers and movers in Mathura handle office or commercial relocations?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse9"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading9"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            Yes, several companies specialize in office and commercial relocation, offering quick, organized, and insured moving solutions with minimal downtime.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            {/* FAQ 10 */}
+                                            <div className="accordion-item wow fadeInUp" data-wow-delay="1.8s">
+                                                <h2 className="accordion-header" id="heading10">
+                                                    <button
+                                                        className="accordion-button collapsed"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#collapse10"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse10"
+                                                    >
+                                                        How early should I book packers and movers in Mathura?
+                                                    </button>
+                                                </h2>
+                                                <div
+                                                    id="collapse10"
+                                                    className="accordion-collapse collapse"
+                                                    aria-labelledby="heading10"
+                                                    data-bs-parent="#faqaccordion"
+                                                >
+                                                    <div className="accordion-body">
+                                                        <p>
+                                                            It’s best to book at least 7–10 days in advance, especially during festive seasons or weekends, to ensure availability and better pricing.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                         {/* FAQ Accordion End */}
                                     </div>
+
                                     {/* Page Single FAQs End */}
 
 
@@ -461,7 +624,7 @@ export default function Data() {
                 </>
 
                 <>
-                  <CitiesBottom/>
+                    <CitiesBottom />
                 </>
 
             </>

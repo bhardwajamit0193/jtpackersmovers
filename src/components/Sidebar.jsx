@@ -21,7 +21,7 @@ export default function Sidebar() {
                                         <div className="contact-info-content">
                                             <p>call to question</p>
                                             <h3>
-                                                <a href="tel:123456789">+91 123 456 789</a>
+                                                <a href="tel:9058824450">+91 9058824450</a>
                                             </h3>
                                         </div>
                                     </div>
@@ -56,9 +56,9 @@ export default function Sidebar() {
                                         {/* Sidebar CTA Content End */}
                                         {/* Sidebar CTA Button Start */}
                                         <div className="sidebar-cta-btn">
-                                            <a href="tel:+112345678">
+                                            <a href="tel:+919058824450">
                                                 <img src="/assets/images/icon-phone.svg" alt="" />
-                                                +1 123 456 78
+                                                +91 9058824450
                                             </a>
                                         </div>
                                         {/* Sidebar CTA Button End */}

@@ -2,7 +2,8 @@ import Script from "next/script";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { DM_Sans } from "next/font/google"; // ✅ Import font
-
+import WhatsAppWidget from "../components/WhatsAppWidget";
+import CallButton from "../components/CallButton";
 // Configure font
 const dmSans = DM_Sans({
   subsets: ["latin"],
@@ -49,7 +50,8 @@ export default function RootLayout({ children }) {
         <Header />
         {children}
         <Footer />
-
+        <WhatsAppWidget />
+        <CallButton />
         {/* JS Scripts */}
         <Script src="/assets/js/jquery-3.7.1.min.js" strategy="beforeInteractive" />
         <Script src="/assets/js/bootstrap.min.js" strategy="afterInteractive" />
