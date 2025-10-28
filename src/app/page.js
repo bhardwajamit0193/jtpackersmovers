@@ -135,9 +135,9 @@ export default function Home() {
               <div className="col-lg-6 order-lg-1 order-2">
                 {/* About Us Image Start */}
                 <div className="about-us-image">
-                
+                 
                     <img src="/assets/images/img-1.webp" alt="" />
-                  
+                 
                 </div>
                 {/* About Us Image End */}
               </div>
@@ -244,7 +244,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                   </div>
                   <div className="service-content">
                     <h3>
-                      <a href="service-single.html">Residential Moving</a>
+                      <a href="#">Residential Moving</a>
                     </h3>
                     <p>
                       Hassle-free home relocation services tailored to your needs. to
@@ -255,7 +255,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                 
                   </div>
                 </div>
-                {/* Service Item End */}
+                {/* Service Item End */} 
               </div>
               <div className="col-lg-3 col-md-6">
                 {/* Service Item Start */}
@@ -265,7 +265,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                   </div>
                   <div className="service-content">
                     <h3>
-                      <a href="service-single.html">Commercial Moving</a>
+                      <a href="#">Commercial Moving</a>
                     </h3>
                     <p>
                       Professional moving services tailored to business ensuring
@@ -286,7 +286,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                   </div>
                   <div className="service-content">
                     <h3>
-                      <a href="service-single.html">Specialty Item Moving</a>
+                      <a href="#">Specialty Item Moving</a>
                     </h3>
                     <p>
                       Expert handling for fragile and valuable items, ensuring safe
@@ -307,7 +307,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                   </div>
                   <div className="service-content">
                     <h3>
-                      <a href="service-single.html">Courier & Cargo Services</a>
+                      <a href="#">Courier & Cargo Services</a>
                     </h3>
                     <p>
                      Fast, Reliable & Secure Delivery Across Destinations
@@ -327,7 +327,7 @@ From careful packing and secure transport to timely delivery, every step is hand
                 >
                   <p>
                     Expert packing for your move.{" "}
-                    <a href="/conatct">Contact now</a>
+                    <a href="/contact-us/">Contact now</a>
                   </p>
              
                 </div>
@@ -473,7 +473,6 @@ From careful packing and secure transport to timely delivery, every step is hand
         </div>
         {/* Our Work Process Section End */}
       </>
-
 
 
       <>

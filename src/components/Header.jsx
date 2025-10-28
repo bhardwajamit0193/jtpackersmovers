@@ -17,8 +17,6 @@ export default function Header() {
         { label: "Contact Us", href: "/contact-us" },
     ];
 
-
-
     return (
         <header className="main-header">
             <div className="header-sticky">
@@ -26,15 +24,15 @@ export default function Header() {
                     <div className="container">
                         {/* Logo Start */}
                         <Link className="navbar-brand text-white fs-2 fw-bolder" href="/">
-                      
+
                             <Image
-  src="/assets/images/logo.png"
-  alt="JT Packers Movers"
-  width={180}
-  height={70}
-  priority
-  style={{ background: "transparent", border: "none" }}
-/>
+                                src="/assets/images/logo.png"
+                                alt="JT Packers Movers"
+                                width={180}
+                                height={70}
+                                priority
+                                style={{ background: "transparent", border: "none" }}
+                            />
 
                         </Link>
                         {/* Logo End */}

@@ -49,7 +49,7 @@ export default function Sidebar() {
                                             <h3>How can we help?</h3>
                                             <p className="mb-2">We are innovative enough to Safeguard your goods</p>
                                             <p>
-                                                <a href="mailto:info@jtpackersmovers.com">info@jtpackersmovers.com
+                                                <a href="mailto:enquiry@jtpackersmovers.com">enquiry@jtpackersmovers.com
                                                 </a>
                                             </p>
                                         </div>

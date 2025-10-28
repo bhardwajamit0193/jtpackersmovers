@@ -12,9 +12,56 @@ const dmSans = DM_Sans({
 });
 
 export const metadata = {
-  title: "JT Packers Movers",
-  description: "Movers & Packers",
+  metadataBase: new URL('https://www.jtpackersmovers.com'),
+  title: 'JT Packers Movers',
+  description:
+    'Trusted Packers and Movers in India – Safe, on-time and affordable home/office shifting, vehicle transport, packing & storage. 12+ years of reliable service.',
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'en_IN',
+    url: '/',
+    siteName: 'JT Packers Movers',
+    title: 'JT Packers Movers',
+    description:
+      'Trusted Packers and Movers in India – Safe, on-time and affordable home/office shifting, vehicle transport, packing & storage. 12+ years of reliable service.',
+    images: [
+      {
+        url: '/assets/images/img-4.webp', 
+        width: 1200,
+        height: 630,
+        alt: 'JT Packers Movers – Trusted Packers and Movers in India',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'JT Packers Movers',
+    description:
+      'India-wide packing & moving by JT Packers Movers: safe, timely, affordable relocation for homes, offices & vehicles.',
+    images: ['/assets/images/img-4.webp'], // update path if needed
+  },
+  robots: {
+    index: true,
+    follow: true,
+    maxSnippet: -1,
+    maxImagePreview: 'large',
+    maxVideoPreview: -1,
+  },
+  keywords: [
+    'Packers and Movers India',
+    'Best packers and movers',
+    'Home shifting services',
+    'Office relocation services',
+    'Vehicle transport India',
+    'Packing and moving company',
+    'Door to door relocation',
+    'Storage and warehousing',
+  ],
 };
+
 
 export default function RootLayout({ children }) {
   return (
@@ -33,6 +80,19 @@ export default function RootLayout({ children }) {
           type="image/x-icon"
           href="/assets/images/favicon.png"
         />
+        {/* ✅ Google Analytics (GA4) */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-7VZ3XPN5L0"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-7VZ3XPN5L0');
+          `}
+        </Script>
 
         {/* CSS files */}
         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="screen" />

@@ -155,7 +155,7 @@ export default function Data() {
                       placeholder="Phone Number"
                       required=""
                     />
-                    <img src="images/icon-phone-primary.svg" alt="" />
+                    <img src="/assets/images/icon-phone-primary.svg" alt="" />
                     <div className="help-block with-errors" />
                   </div>
                   <div className="form-group col-md-12 mb-5">
@@ -198,7 +198,7 @@ export default function Data() {
         <div className="col-lg-12">
           {/* Google Map Start */}
           <div className="google-map-iframe">
-             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224357.96933955653!2d77.10645588985462!3d28.521882382289068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5a43173357b%3A0x37ffce30c87cc03f!2sNoida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1756840296157!5m2!1sen!2sin" allowFullScreen=""
+             <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Hig-A%2039%20Indirapuram,%20100%20ft%20Road%20Near%20Shamshabad%20Road%20,%20282001,%20Agra.+(JT%20Packers%20Movers)&amp;t=p&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             />

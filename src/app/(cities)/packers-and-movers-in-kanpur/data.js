@@ -37,7 +37,7 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        
+                                       
                                             <Image
                                                 src="/assets/images/packers-and-movers-in-kanpur.webp"
                                                 alt="Kanpur City"
@@ -45,14 +45,14 @@ export default function Data() {
                                                 height={500}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                        
+                                      
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}
                                     <div className="project-entry">
-                                        <h1 className="text-anime-style-2 h2">
+                                        <h2 className="text-anime-style-2 h2">
                                             Packers and Movers in <span>Kanpur </span>
-                                        </h1>
+                                        </h2>
                                         <p className="wow fadeInUp">
                                             Relocating to a new place is always an exciting experience, but it can also bring along stress and challenges. Packing household items, handling fragile goods, moving heavy furniture, and transporting them safely requires planning and expertise. That’s where JT Packers Movers in Kanpur steps in as your trusted relocation partner. With years of experience and a dedicated team, we make shifting simple, smooth, and worry-free for families and businesses across Kanpur and nearby areas.
                                         </p>
@@ -89,12 +89,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        
+                                                       
                                                             <img
                                                                 src="/assets/images/houseshifting.webp"
                                                                 alt=""
                                                             />
-                                                        
+                                                      
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -112,12 +112,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        
+                                                       
                                                             <img
                                                                 src="/assets/images/office-shifting.webp"
                                                                 alt=""
                                                             />
-                                                        
+                                                      
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -133,12 +133,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        
+                                                       
                                                             <img
                                                                 src="/assets/images/car-and-bike-transport-services.webp"
                                                                 alt=""
                                                             />
-                                                        
+                                                      
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -154,12 +154,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        
+                                                       
                                                             <img
                                                                 src="/assets/images/domestic.webp"
                                                                 alt=""
                                                             />
-                                                        
+                                                      
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
@@ -175,12 +175,12 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                        
+                                                       
                                                             <img
                                                                 src="/assets/images/warehouse.webp"
                                                                 alt=""
                                                             />
-                                                        
+                                                      
                                                     </div>
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}

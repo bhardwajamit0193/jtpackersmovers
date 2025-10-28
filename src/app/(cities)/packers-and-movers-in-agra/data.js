@@ -12,7 +12,7 @@ export default function Data() {
     return (
         <div className="page">
             <PageHeader
-                title="Packers and Movers in Agra"
+                title="Packers Movers Agra"
                 breadcrumbs={[
                     { label: "Home", href: "/" },
                     { label: "Cities", href: "/cities" },
@@ -44,43 +44,56 @@ export default function Data() {
                                                 height={600}  // set height
                                                 priority      // optional (for above-the-fold images)
                                             />
-                                      
+                                        
                                     </div>
                                     {/* Page Single Image End */}
                                     {/* Project Entry Start */}
                                     <div className="project-entry">
-                                        <h1 className="text-anime-style-2 h2">
-                                            Packers and Movers in <span>Agra </span>
-                                        </h1>
+                                        <h2 className="text-anime-style-2 h2">
+                                            Packers Movers <span>Agra </span>
+                                        </h2>
                                         <p className="wow fadeInUp">
-                                            Relocating to a new place is always an exciting experience, but it can also bring along stress and challenges. Packing household items, handling fragile goods, moving heavy furniture, and transporting them safely requires planning and expertise. That’s where JT Packers Movers in Agra steps in as your trusted relocation partner. With years of experience and a dedicated team, we make shifting simple, smooth, and worry-free for families and businesses across Agra and nearby areas.
+                                            Rely on professionals who know local roads and highways for your move, whether across Agra or beyond Uttar Pradesh.
                                         </p>
                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                            At JT Packers Movers, our mission is to provide reliable, affordable, and hassle-free moving services. Whether you are planning a local move within Agra, shifting to another city, or even transporting your car or office setup, our skilled team ensures that every step of the process is handled with care. From the moment we start packing to the time your belongings are delivered and unpacked at the new destination, we guarantee safety, punctuality, and complete satisfaction.
-
-
+                                            Introducing <b>JT Packers Movers Agra</b>—Welcome to where our local expertise, reliable staff, and seamless process transform moving from a stressful task into a truly smooth experience, free from hassle or drama.
                                         </p>
+                                        <p className="wow fadeInUp" data-wow-delay="0.4s">
+                                            We stand out as your most trusted partner by offering fast, affordable, and paradise-like moving experiences, tailored for everything from household goods and office gear to vehicles or bikes.
+                                        </p>
+                                        <p className="wow fadeInUp" data-wow-delay="0.6s">
+                                            Ranging from packing and loading to transportation and delivery, our solutions take an end-to-end approach with 100% customer satisfaction as a concern.
+                                        </p>
+                                        <p className="wow fadeInUp" data-wow-delay="0.8s">
+                                            With years of experience and a team of trained specialists, we ensure every move is error- and accident-free. Your belongings deserve this professional, no-nonsense service.
+                                        </p>
+
                                         {/* Project Design Highlight Start */}
                                         <div className="project-essence-box">
                                             <h2 className="text-anime-style-2 fs-2">
                                                 Why Choose JT Packers Movers in <span>Agra?</span>
                                             </h2>
                                             <ul className="wow fadeInUp" data-wow-delay="0.4s">
-                                                <li><b>Professional Expertise </b>– Our trained staff knows the best techniques for packing and handling different types of items, including delicate glassware, electronic appliances, furniture, and office equipment.</li>
-                                                <li><b>Safe & Secure Packing</b> – We use high-quality boxes, bubble wrap, stretch film, and other protective materials to ensure zero damage during transit.</li>
-                                                <li><b>Affordable & Transparent Pricing </b>– No hidden charges or last-minute surprises; we provide clear quotations that suit your budget.</li>
-                                                <li><b>On-Time Delivery</b> – We value your time and guarantee timely pickups and deliveries.</li>
-                                                <li><b>Customer Support</b> – Our team is available 24/7 to answer your queries and assist you throughout the relocation process.</li>
-
+                                                <li>ISO-certified & government-approved packers and movers</li>
+                                                <li>Trained staff for handling fragile, heavy, and valuable items</li>
+                                                <li>Modern packing materials (bubble wrap, foam sheets, boxes)</li>
+                                                <li>GPS-enabled vehicles for real-time tracking</li>
+                                                <li>Door-to-door service across Agra & PAN India</li>
+                                                <li>Transparent pricing with no hidden costs</li>
+                                                <li>Free pre-move survey and quick quotation</li>
                                             </ul>
+
                                         </div>
                                         {/* Project Design Highlight End */}
                                         <div className="project-challenge">
                                             <h2 className="text-anime-style-2 fs-2">
-                                                Our Packers and Movers Services in <span>Agra</span>
+                                                Home Relocation Services in <span>Agra</span>
                                             </h2>
                                             <p className="wow fadeInUp">
-                                                At JT Packers Movers, we provide a wide range of relocation and logistics services tailored to your needs:
+                                                A new residence should be a fun activity, not a source of anxiety. We remove the burden from your shoulders.
+                                            </p>
+                                            <p className="wow fadeInUp">
+                                                Our home shifting in Agra service includes packing all the household goods, including furniture, appliances, as well as dishes. We are the trusted household movers in Agra that you need.
                                             </p>
                                             {/* Project Challenge Item List Start */}
                                             <div className="project-challenge-item-list">
@@ -88,7 +101,7 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                       
+                                                        
                                                             <img
                                                                 src="/assets/images/houseshifting.webp"
                                                                 alt=""
@@ -99,8 +112,19 @@ export default function Data() {
                                                     {/* Project Challenge Content Start */}
                                                     <div className="project-challenge-content">
                                                         <h3 className="wow fadeInUp">Household Shifting in Agra</h3>
-                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                                            Moving homes becomes effortless with our complete household relocation solutions. From kitchen items and clothes to heavy furniture and fragile décor, we pack, load, transport, and unload everything with care
+                                                        <p className="wow fadeInUp">
+                                                            We provide safe transportation and direct delivery to your door.
+                                                        </p>
+                                                        <p><strong>Home House Move: What’s Included?</strong></p>
+                                                        <ol style={{ listStyleType: "disc" }}>
+                                                            <li style={{ marginBottom: "10px" }}>On-site pre-move inspection.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Electronic wrappings for fine products.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Loading and unloading are done by trained workers.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Rearranging and unpacking help when necessary.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Home-shifting insurance, domestic and intercity.</li>
+                                                        </ol>
+                                                        <p className="wow fadeInUp">
+                                                            Our niche is local relocation inside <b>Agra</b> (Civil Lines, Kamla Nagar, Dayal Bagh, Shahganj, Sikandra), and long-distance moves to Delhi, Lucknow, Kanpur, Jaipur, Gurgaon, or any other city that you may be moving to. For the best <b>packers and movers near me in Agra</b>, just call us.
                                                         </p>
 
                                                     </div>
@@ -111,7 +135,7 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                       
+                                                        
                                                             <img
                                                                 src="/assets/images/office-shifting.webp"
                                                                 alt=""
@@ -123,16 +147,28 @@ export default function Data() {
                                                     <div className="project-challenge-content">
                                                         <h3 className="wow fadeInUp">Office Relocation in Agra</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                                            Planning to shift your office? We handle files, computers, servers, furniture, and workstations, ensuring minimum downtime and smooth transition to your new office space.
+                                                            In case your business is moving, our office relocation in Agra service will ensure that downtimes are minimal and necessary business assets are fully secured.
                                                         </p>
-
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We coordinate all actions, managing computers, papers, servers, and furniture before installing your new workplace.
+                                                        </p>
+                                                        <p><strong>The Reason Why Agra Businesses Trust the Service:</strong></p>
+                                                        <ol style={{ listStyleType: "disc" }}>
+                                                            <li style={{ marginBottom: "10px" }}>Rapid assembly and expert re-assembly.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Dedicated IT equipment handling.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Moves during the weekend or after the workday to prevent inconveniences.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Easy setup through label-based systematic packing.</li>
+                                                        </ol>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We will do all the logistics to ensure that your business is brought back on track with minimal time effect.
+                                                        </p>
                                                     </div>
                                                     {/* Project Challenge Content End */}
                                                 </div>
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                       
+                                                        
                                                             <img
                                                                 src="/assets/images/car-and-bike-transport-services.webp"
                                                                 alt=""
@@ -142,10 +178,58 @@ export default function Data() {
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
                                                     <div className="project-challenge-content">
-                                                        <h3 className="wow fadeInUp">Car & Bike Transportation</h3>
+                                                        <h3 className="wow fadeInUp">Car Carrier Services in Agra</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                                            Our specialized carriers ensure that your vehicles are transported safely to your new city without scratches or damage.
+                                                            We provide car transport in Agra with fully enclosed carriers and hydraulic lifters for damage-free travel.
                                                         </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            In and out of UP or countrywide, our service would guarantee the safety of pickup to delivery.
+                                                        </p>
+                                                        <p><strong>Zero-Damage Transport Process of Cars:</strong></p>
+                                                        <ol style={{ listStyleType: "disc" }}>
+                                                            <li style={{ marginBottom: "10px" }}>Door-to-door delivery of pickup at your location.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Check before loading - Detailed inspection and documentation.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Selecting closed or open car carriers according to the budget.</li>
+                                                            <li style={{ marginBottom: "10px" }}>GPS tracking is used in order to make everything transparent.</li>
+                                                            <li style={{ marginBottom: "10px" }}>On time delivery and full insurance.</li>
+                                                        </ol>
+
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We take care of your car as we do ours, so that it will be in perfect condition.
+                                                        </p>
+                                                    </div>
+                                                    {/* Project Challenge Content End */}
+                                                </div>
+                                                <div className="project-challenge-item">
+                                                    {/* Project Challenge Image Start */}
+                                                    <div className="project-challenge-image">
+                                                        
+                                                            <img
+                                                                src="/assets/images/bike-transport-services.webp"
+                                                                alt=""
+                                                            />
+                                                        
+                                                    </div>
+                                                    {/* Project Challenge Image End */}
+                                                    {/* Project Challenge Content Start */}
+                                                    <div className="project-challenge-content">
+                                                        <h3 className="wow fadeInUp">Bike Transport Agra – The Two-Wheeler Care Package</h3>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            Your bike is something to be taken care of. In case of zero scratches, we use premium crates, bubble wrap, and special straps.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We move bikes from Agra to major cities (Delhi, Pune, Hyderabad, Bangalore, Chennai, etc.).
+                                                        </p>
+                                                        <h3 className="wow fadeInUp">Packing and Moving Agra – The Art of Secure Wrapping</h3>
+                                                        <p>Our packing materials and labeling are also systematic and of international standard to avoid damage or confusion.</p>
+                                                        <p><strong>It is Filled with The Elite Packing Materials We Use:</strong></p>
+                                                        <ol style={{ listStyleType: "disc" }}>
+                                                            <li style={{ marginBottom: "10px" }}>Bubble wrap of the highest quality, corrugated papers, and hard cardboard boxes.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Moisture protection and protective wrapping.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Special wooden boxes to carry delicate or priceless products.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Colour-coded and easy to identify and unload items.</li>
+                                                        </ol>
+
 
                                                     </div>
                                                     {/* Project Challenge Content End */}
@@ -153,7 +237,7 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                       
+                                                        
                                                             <img
                                                                 src="/assets/images/domestic.webp"
                                                                 alt=""
@@ -163,10 +247,59 @@ export default function Data() {
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
                                                     <div className="project-challenge-content">
-                                                        <h3 className="wow fadeInUp">Local and Domestic Shifting</h3>
+                                                        <h3 className="wow fadeInUp">Local & Domestic Shifting Services in Agra</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                                            Whether you are moving just a few kilometers away or to another state, our services cover both short and long distances with the same level of professionalism.
+                                                            Our local moves in Agra and significant domestic moves across India make us the complete national experts in logistics.
                                                         </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            Where local moves are concerned, we can normally get it over in less than 24 hours.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We have official permission to work between states and hire safe, reliable drivers.
+                                                        </p>
+                                                        <h4 className="wow fadeInUp">Interstate Relocation from Agra</h4>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            Our services reach all parts of India: Agra to major metros and tier-2 cities: Delhi, Gurgaon, Noida, Jaipur, Lucknow, Mumbai, Pune, Hyderabad, Chennai, Kolkata.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            Hassle-free interstate move. Our trained team will guarantee you a transparent track of your money without any problem.
+                                                        </p>
+                                                    </div>
+                                                    {/* Project Challenge Content End */}
+                                                </div>
+                                                <div className="project-challenge-item">
+                                                    {/* Project Challenge Image Start */}
+                                                    <div className="project-challenge-image">
+                                                        
+                                                            <img
+                                                                src="/assets/images/service-for-army-officers.webp"
+                                                                alt=""
+                                                            />
+                                                        
+                                                    </div>
+                                                    {/* Project Challenge Image End */}
+                                                    {/* Project Challenge Content Start */}
+                                                    <div className="project-challenge-content">
+                                                        <h3 className="wow fadeInUp">A Salute to Service: Specializing in the Shifting of Indian Army Officers</h3>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            It is an honor to serve the heroes in our country. We offer relocation services to officers and defense workers of the Indian Army in a special way.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.4s">
+                                                            Military life includes frequent moves, each requiring precision, trust, and respect.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.6s">
+                                                            Our army relocation department can provide a hassle-free move at any part in India.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.8s">
+                                                            Packing, secure loading, transport, and delivery on time will be taken care of through a military level of discipline and care.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="1.0s">
+                                                            In cantonments, door-to-door service, vehicle transportation that is secure, and interim vehicle storage for the officers awaiting to get new accommodation are also under our umbrella.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="1.2s">
+                                                            With JT Packers Movers Agra, you have a relocation partner who uniquely values your service and is dedicated to preserving your belongings with utmost respect and understanding.
+                                                        </p>
+
 
                                                     </div>
                                                     {/* Project Challenge Content End */}
@@ -174,7 +307,7 @@ export default function Data() {
                                                 <div className="project-challenge-item">
                                                     {/* Project Challenge Image Start */}
                                                     <div className="project-challenge-image">
-                                                       
+                                                        
                                                             <img
                                                                 src="/assets/images/warehouse.webp"
                                                                 alt=""
@@ -184,11 +317,31 @@ export default function Data() {
                                                     {/* Project Challenge Image End */}
                                                     {/* Project Challenge Content Start */}
                                                     <div className="project-challenge-content">
-                                                        <h3 className="wow fadeInUp">Warehousing & Storage Services</h3>
+                                                        <h3 className="wow fadeInUp">Storage and Warehouse in Agra -Safe House Your Stuff</h3>
                                                         <p className="wow fadeInUp" data-wow-delay="0.2s">
-                                                            Need temporary storage for your belongings? Our secure warehouses in Agra provide safe and cost-effective storage solutions for short or long durations.
+                                                            Requirement of a secure place to store before transit? Multiple short-term and long-term warehouses are available in Agra, which are fully insured.
                                                         </p>
+                                                        <p><strong>Our Secure Storage has the following features:</strong></p>
+                                                        <ol style={{ listStyleType: "disc" }}>
+                                                            <li style={{ marginBottom: "10px" }}>24-hour CCTV monitoring and high security.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Infrastructural safety due to fire.</li>
+                                                            <li style={{ marginBottom: "10px" }}>Regular pest control.</li>
+                                                            <li style={{ marginBottom: "10px" }}>The convenience of being able to access easily.</li>
+                                                        </ol>
 
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            You are welcome to keep your consignments with us in a climate-controlled and very safe place until you are ready.
+                                                        </p>
+                                                        <h3 className="wow fadeInUp">Industrial and Commercial Shifting in Agra - Heavy Duty Moves</h3>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            Our other large industrial and commercial customers are those who move heavy machinery, shop goods, and complex machinery.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We use modern tools and equipment to handle very tough jobs.
+                                                        </p>
+                                                        <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                            We offer large-vehicle delivery and multi-city transfers for businesses.
+                                                        </p>
                                                     </div>
                                                     {/* Project Challenge Content End */}
                                                 </div>
@@ -280,6 +433,114 @@ export default function Data() {
                                         </div>
                                         {/* Our Work Process Section End */}
                                     </>
+
+                                    <>
+                                        <div className="page-single">
+                                            <div className="container">
+                                                <h2 className="text-anime-style-2 fs-2" data-cursor="-opaque">
+                                                    Movers and Packers Cost in Agra - Spreadsheet Transparency
+                                                </h2>
+                                                <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                    We believe in transparent pricing. You receive the exact moving cost in Agra upfront.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                    The following is an approximate estimate; the prices depend on the volume and distance.
+                                                </p>
+                                                <table style={{ width: "100%", borderCollapse: "collapse", marginTop: "20px" }}>
+                                                    <thead>
+                                                        <tr>
+                                                            <th style={{ border: "1px solid #ccc", padding: "10px", backgroundColor: "#f8f8f8", textAlign: "left" }}>Moving Type</th>
+                                                            <th style={{ border: "1px solid #ccc", padding: "10px", backgroundColor: "#f8f8f8", textAlign: "left" }}>Cost Approx. Range</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>1 BHK Local Shifting</td>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>₹3,000 – ₹6,000</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>2 BHK Local Shifting</td>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>₹6,000 – ₹9,000</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>3 BHK Local Shifting</td>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>₹8,000 – ₹12,000</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>Car Transport (within UP)</td>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>₹4,000 – ₹7,000</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>Domestic Move (Agra to Delhi)</td>
+                                                            <td style={{ border: "1px solid #ccc", padding: "10px" }}>₹8,000 – ₹15,000</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+
+                                                <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                    These prices are estimates and may change depending on the actual distance, volume, and services required.
+                                                </p>
+                                                <br></br>
+                                                <h3>Transit Insurance Coverage</h3>
+                                                <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                    Our insurance package will provide all relocation types with accidental insurance, theft, and unpredictable risks.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="0.4s">
+                                                    Our insurance partners enable fast claim settlements, giving you peace of mind from start to finish.
+                                                </p>
+                                                <br></br>
+                                                <h4>How to Have a Smooth Relocation Process, Step by Step:</h4><br></br>
+                                                <ol style={{ listStyleType: "disc" }}>
+                                                    <li style={{ marginBottom: "10px" }}>
+                                                        <b>Survey & Quotation:</b> We check your things and give a free, quick estimate on the spot.
+                                                    </li>
+                                                    <li style={{ marginBottom: "10px" }}>
+                                                        <b>Packing:</b> All the items are done using professional and high-quality materials, thus providing maximum protection.
+                                                    </li>
+                                                    <li style={{ marginBottom: "10px" }}>
+                                                        <b>Loading & Transport:</b> Goods are safely loaded and transported in our GPS-enabled trucks. The progress can be monitored in real time.
+                                                    </li>
+                                                    <li style={{ marginBottom: "10px" }}>
+                                                        <b>Delivery:</b> We do ensure that you receive prompt and efficient unloading at the point of your ultimate destination, as we promise.
+                                                    </li>
+                                                    <li style={{ marginBottom: "10px" }}>
+                                                        <b>Unpacking:</b> We also provide an unpacking service in case you want to move into your new home or office and have it installed within the minimum amount of time possible.
+                                                    </li>
+                                                </ol>
+                                                <p className="wow fadeInUp" data-wow-delay="0.4s">This is a proven, organized methodology, which always ensures that we are the best packers and movers in Agra—the moving company Agra that never fails to respond.</p>
+                                                <br></br>
+                                                <h3>Why JT Packers & Movers is the Best Choice in Agra</h3><br></br>
+                                                <p className="wow fadeInUp" data-wow-delay="0.2s">
+                                                    We have more than a decade of long-learned experience in the field of logistics and professional relocation, and apply it to each of our moves.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="0.4s">
+                                                    The number of our truly satisfied customers in India is thousands, which is evidence of our quality service and commitment.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="0.6s">
+                                                    A low price, professionally rendered service, and the promise of delivery on time, all in one package.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="0.8s">
+                                                    We also provide effective 24/7 customer care on all bookings, track updates, or any kind of query that you might have—we are 24/7.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="1.0s">
+                                                    We guarantee 100% satisfaction because we combine proven reliability, thorough care, and a customer-focused approach unmatched in Agra.
+                                                </p>
+                                                <p className="wow fadeInUp" data-wow-delay="1.2s">
+                                                    Whether you are relocating locally or intend to make a massive inter-state shift, JT Packers Movers Agra will make the relocation process safe, fast, and cheap enough to the extent that we can say it is literally second to none, since your convenience and peace of mind are always number one on our list.
+                                                </p>
+                                                <br></br>
+                                                <h5>Contact JT Packers Movers Agra</h5>
+                                                <ul style={{ listStyleType: "none", paddingLeft: "0", marginTop: "10px" }}>
+                                                    <li style={{ marginBottom: "8px" }}> <b>Office Address:</b> Hig-A 39 Indirapuram, 100 ft Road Near Shamshabad Road , 282001, Agra.</li>
+                                                    <li style={{ marginBottom: "8px" }}> <b>Phone/WhatsApp:</b> +91 9058824450</li>
+                                                    <li style={{ marginBottom: "8px" }}> <b>Email:</b> enquiry@jtpackersmovers.com</li>
+                                                    <li style={{ marginBottom: "8px" }}> <b>Website:</b> www.jtpackersmovers.com</li>
+                                                </ul>
+                                            </div>
+                                            <br></br>
+                                        </div>
+                                    </>
+
                                     {/* Project Entry End */}
                                     {/* Page Single FAQs Start */}
                                     <div className="page-single-faqs">

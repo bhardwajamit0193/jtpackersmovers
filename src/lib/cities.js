@@ -20,7 +20,7 @@ const cities = [
   {
     name: "Kanpur",
     link: "/packers-and-movers-in-kanpur",
-    img: "/assets/images/kanpur-img.jpeg",
+    img: "/assets/images/kanpur-img.webp",
     desc: "Affordable Packers and Movers in Kanpur with On-Time Delivery.",
   },
   {

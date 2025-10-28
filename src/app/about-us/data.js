@@ -30,7 +30,7 @@ export default function Data() {
                   <div className="about-us-image">
                    
                       <img src="/assets/images/img-1.webp" alt="" />
-                    
+                   
                   </div>
                   {/* About Us Image End */}
                 </div>
@@ -93,7 +93,7 @@ export default function Data() {
                     {/* About Owner Info End */}
                     {/* About Owner Image Start */}
                     <div className="about-owner-image">
-                      
+                     
                         <img src="/assets/images/img-2.webp" alt="" />
                      
                     </div>
@@ -152,9 +152,9 @@ export default function Data() {
                     {/* Our Approach Image Box Start */}
                     <div className="our-approach-img-box">
                       <div className="our-approach-img-1">
-                      
+                       
                           <img src="/assets/images/img-7.webp" alt="" />
-                      
+                       
                       </div>
                       <div className="trusted-client-box wow fadeInUp">
                         <h3>Trusted by 3500+ clients for reliable moves.</h3>
@@ -166,7 +166,7 @@ export default function Data() {
                       <div className="our-approach-img-2">
                        
                           <img src="/assets/images/img-6.webp" alt="" />
-                        
+                       
                       </div>
                     </div>
                     {/* Our Approach Image Box End */}
@@ -247,16 +247,16 @@ export default function Data() {
                   <div className="success-story-images">
                     {/* Success Story Image 1 Start */}
                     <div className="success-story-img-1">
-                   
-                        <img src="/assets/images/img-5.webp" alt="" />
                       
+                        <img src="/assets/images/img-5.webp" alt="" />
+                     
                     </div>
                     {/* Success Story Image 1 End */}
                     {/* Success Story Image 2 Start */}
                     <div className="success-story-img-2">
                   
                         <img src="/assets/images/img-4.webp" alt="" />
-                     
+                      
                     </div>
                     {/* Success Story Image 2 End */}
                     {/* Contact Now Box Start */}

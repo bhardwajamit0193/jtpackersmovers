@@ -37,7 +37,7 @@ export default function Data() {
                                 <div className="project-single-content">
                                     {/* Page Single Image Start */}
                                     <div className="page-single-image">
-                                        
+                                       
                                             <Image
                                                 src="/assets/images/car2.png"
                                                 alt="Agra City"
